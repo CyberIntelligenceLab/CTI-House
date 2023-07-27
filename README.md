@@ -39,6 +39,25 @@
 
 # Subdomain
 
+* [dnsdumpster](https://dnsdumpster.com/)
+* [subfinder](https://www.kali.org/tools/subfinder/)
+* [sublister](https://www.kali.org/tools/sublist3r/)
+* [amass](https://github.com/owasp-amass/amass)
+* [dnsmap](https://www.kali.org/tools/dnsmap/)
+* [dnsenum](https://www.kali.org/tools/dnsenum/)
+* [Crt.sh](https://crt.sh/)
+* [Pentest Tools](https://pentest-tools.com/information-gathering/find-subdomains-of-domain)
+* [ZoomEye](https://www.zoomeye.org/)
+* [OSINT.SH](https://osint.sh/subdomain/)
+* [DNSRecon](https://www.kali.org/tools/dnsrecon/)
+* [Subdomain Lookup](https://subdomains.whoisxmlapi.com/lookup)
+* [Criminal IP](https://www.criminalip.io/en)
+* [nmapper](https://www.nmmapper.com/sys/tools/subdomainfinder/)
+* [Knock](https://github.com/guelfoweb/knock)
+* [assetfinder](https://github.com/tomnomnom/assetfinder)
+* [theharvester](https://www.kali.org/tools/theharvester/)
+
+
  [CTI House](#cti-house)
 
 # IP

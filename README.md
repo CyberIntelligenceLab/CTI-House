@@ -9,7 +9,7 @@
 
 | |  |  |  |  |  |
 |---------|---------|---------|---------|---------|---------|
-| [Domain](#domain) | [Subdomain](#subdomain) | [IP](#ip) | [URL](#url) | [Whois Records](#whois-records) | [Social Media](#social-media) |
+| [Domain](#domain) | [Subdomain](#subdomain) | [IP Address](#ip-address) | [URL](#url) | [Whois Records](#whois-records) | [Social Media](#social-media) |
 | [E Mail](#e-mail) | [Username](#username) | [Passwords](#passwords) | [Data Breaches](#data-breaches) | [Document Search](#document-search) | [Phone Numbers](#phone-numbers) |
 | [Meta Data](#meta-data) | [Dark Web Search Engine Links](#dark-web-search-engine-links) | [Social Media Tools](#social-media-tools) | [Messenger Platforms](#messenger-platforms) | [Cipher Identifier](#cipher-identifier) | [Geolocation](#geolocation) |
 | [Public Records](#public-records) | [Document Search Presentation Repositories](#document-search-presentation-repositories) | [Osint Books](#osint-books) | [Popular Search Engines](#popular-search-engines) | [International Search Engines](#international-search-engines) | [Username Related Accounts](#username-related-accounts) |
@@ -38,7 +38,6 @@
  [CTI House](#cti-house)
 
 # Subdomain
-
 * [dnsdumpster](https://dnsdumpster.com/)
 * [subfinder](https://www.kali.org/tools/subfinder/)
 * [sublister](https://www.kali.org/tools/sublist3r/)
@@ -60,7 +59,26 @@
 
  [CTI House](#cti-house)
 
-# IP
+# IP Address
+* [AlienVault](https://otx.alienvault.com/)
+* [VirusTotal](https://www.virustotal.com/gui/home/search)
+* [AbuseIPDB](https://www.abuseipdb.com/)
+* [Viewdns.info](https://viewdns.info/)
+* [IP2Location](https://www.ip2location.com/)
+* [HackerTarget / Reverse IP Lookup](https://hackertarget.com/reverse-ip-lookup/)
+* [ipvoid](https://www.ipvoid.com/)
+* [GreyNoise](https://viz.greynoise.io/)
+* [GEO IP Tool](https://www.geoiptool.de/)
+* [Onyphe](https://www.onyphe.io/)
+* [Criminal IP](https://www.criminalip.io/en)
+* [LeakIX](https://leakix.net/)
+* [Nerd IP](https://nerd.cesnet.cz/nerd/ips/)
+* [IPLeak](https://ipleak.net/?q=192.198.122.210)
+* [Shodan](https://www.shodan.io/)
+* [HackerTarget Nmap Online Port Scanner](https://hackertarget.com/nmap-online-port-scanner/)
+* [HackerTarget Reverse IP Lookup](https://hackertarget.com/reverse-ip-lookup/)
+* [MXToolBox](https://mxtoolbox.com/blacklists.aspx)
+* [Ripe](https://www.ripe.net/)
 
  [CTI House](#cti-house)
 

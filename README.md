@@ -82,7 +82,11 @@
 
  [CTI House](#cti-house)
 
-# URL 
+# URL
+* [URLScan](https://urlscan.io/)
+* [VirusTotal](https://www.virustotal.com/gui/home/url)
+* [URLVoid](https://www.urlvoid.com/)
+* [URL Expander](https://urlexpander.net/)
 
  [CTI House](#cti-house)
 

@@ -180,6 +180,93 @@
  [CTI House](#cti-house)
 
 # International Search Engines
+<details>
+  <summary>Arabic</summary>
+  
+  * [Yamli](https://www.yamli.com/)
+  * [Eiktub](http://www.eiktub.com/search.html)
+  * [Yorwa](https://www.yorwa.com/)
+  * [Alawfa](http://www.alawfa.com/)
+  * [Yoolki](https://yoolki.com/)
+
+</details>
+
+<details>
+  <summary>China</summary>
+  
+* [Baidu](https://www.baidu.com/)
+  
+</details>
+
+<details>
+  <summary>Finland</summary>
+  
+* [Zapmeta](https://www.zapmeta.com/)
+
+</details>
+
+<details>
+  <summary>Filipino</summary>
+  
+* [Alleba](https://www.alleba.com/)
+
+</details>
+
+<details>
+  <summary>Iran</summary>
+  
+* [Parseek](https://www.parseek.com/)
+
+</details>
+
+<details>
+  <summary>Israil</summary>
+  
+* [Walla](https://www.walla.co.il/)
+
+</details>
+
+<details>
+  <summary>Japan</summary>
+  
+* [Goo](https://www.goo.ne.jp/)
+
+</details>
+
+<details>
+  <summary>Korea</summary>
+  
+* [Daum](https://www.daum.net/)
+
+</details>
+
+<details>
+  <summary>Netherlands</summary>
+  
+* [Zoeken](https://www.zoeken.nl/)
+
+</details>
+
+<details>
+  <summary>Poland</summary>
+  
+* [Onet](https://www.onet.pl/)
+
+</details>
+
+<details>
+  <summary>Portugal</summary>
+  
+* [Sapo](https://www.sapo.pt/)
+
+</details>
+
+<details>
+  <summary>South Korea</summary>
+  
+* [Naver](https://www.naver.com/)
+
+</details>
 
  [CTI House](#cti-house)
 

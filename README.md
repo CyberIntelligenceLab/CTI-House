@@ -132,7 +132,25 @@
  [CTI House](#cti-house)
 
 # Data Breaches
-
+* [Leak Peek](leakpeek.com)
+* [IntelligenceX](intelx.io)
+* [haveibeenpwned](haveibeenpwned.com)
+* [Dehashed](dehashed.com)
+* [Cybernews](https://cybernews.com/personal-data-leak-check/)
+* [Avast Hack Check](avast.com/hackcheck)
+* [BreachDirectory](https://breachdirectory.org/)
+* [Ashley Madison](https://ashley.cynic.al/)
+* [Scattered Secrets](https://scatteredsecrets.com/)
+* [Truthfinder](https://www.truthfinder.com/)
+* [Leak-Lookup](https://leak-lookup.com/)
+* [Leak Check](https://leakcheck.io/)
+* [Cyber Insurance](https://www.cyberinsurance.com/)
+* [Immuniweb](https://www.immuniweb.com/)
+* [Email Breach Detection and Analysis](https://www.hotsheet.com/inoitsu/)
+* [MyPwd](https://mypwd.io/)
+* [Secureito](https://www.secureito.com/)
+* [LeakIX](https://leakix.net/)
+* [Leaked.Domains](https://leaked.domains/)
  [CTI House](#cti-house)
 
 # Document Search

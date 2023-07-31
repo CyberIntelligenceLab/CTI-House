@@ -160,6 +160,11 @@
  [CTI House](#cti-house)
 
 # Cipher Identifier
+* [DCODE](https://www.dcode.fr/cipher-identifier)
+* [Boxenriq](https://www.boxentriq.com/code-breaking/cipher-identifier)
+* [CyberChef](https://gchq.github.io/CyberChef/)
+* [Hashes](https://hashes.com/en/tools/hash_identifier)
+* [hash-identifier](https://www.kali.org/tools/hash-identifier/)
 
  [CTI House](#cti-house)
 

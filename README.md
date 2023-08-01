@@ -91,6 +91,14 @@
  [CTI House](#cti-house)
 
 # Whois Records
+* [Whois](https://www.whois.com/whois/)
+* [DomainTools](https://whois.domaintools.com/)
+* [whois](https://www.kali.org/tools/whois/)
+* [da whois](https://dawhois.com/)
+* [iana](https://www.iana.org/whois)
+* [MarkMonitor](https://whois-webform.markmonitor.com/whois)
+* [WhoisMind](https://whoismind.com/)
+* [Whois History](https://osint.sh/whoishistory/)
 
  [CTI House](#cti-house)
 
@@ -124,6 +132,18 @@
  [CTI House](#cti-house)
 
 # Username
+* [CheckUsernames](checkusernames.com)
+* [namecheckr](namecheckr.com)
+* [nameevine](namevine.com)
+* [whatismyname](whatsmyname.app)
+* [Sherlock](https://github.com/sherlock-project/sherlock)
+* [analyzedid](https://analyzeid.com/username/)
+* [DigitalFootPrintCheck](https://digitalfootprintcheck.com/free-checker.html)
+* [idcrawl](https://www.idcrawl.com/username)
+* [namech_k](https://namechk.com/)
+* [Username Generator](https://www.lastpass.com/features/username-generator)
+* [Fake Name Generator](https://www.fakenamegenerator.com/)
+* [Random Name Generator](https://www.behindthename.com/random/)
 
  [CTI House](#cti-house)
 

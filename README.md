@@ -171,7 +171,8 @@
 * [Secureito](https://www.secureito.com/)
 * [LeakIX](https://leakix.net/)
 * [Leaked.Domains](https://leaked.domains/)
- [CTI House](#cti-house)
+
+[CTI House](#cti-house)
 
 # Document Search
 
@@ -186,6 +187,14 @@
  [CTI House](#cti-house)
 
 # Dark Web Search Engine Links
+* [ahmia.fi](http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion/)
+* [Deep Search](http://search7tdrcvri22rieiwgi5g46qnwsesvnubqav2xakhezv4hjzkkad.onion/)
+* [Torch](http://xmh57jrknzkhv6y3ls3ubitzfqnkrwxhopf5aygthi7d6rplyvk3noyd.onion/)
+* [Tor66](http://tor66sewebgixwhcqfnp5inzp5x5uohhdy3kvtnyfxc2e5mxiuh34iid.onion/)
+* [Excavator](http://2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion/)
+* [Sentor](http://e27slbec2ykiyo26gfuovaehuzsydffbit5nlxid53kigw3pvz6uosqd.onion/)
+* [Tordex](http://tordexu73joywapk2txdr54jed4imqledpcvcuf75qsas2gwdgksvnyd.onion/)
+* [OnionLand Search](http://3bbad7fauom4d6sgppalyqddsqbf5u5p56b5k5uk2zxsy3d6ey2jobad.onion/)
 
  [CTI House](#cti-house)
 
@@ -219,6 +228,18 @@
  [CTI House](#cti-house)
 
 # Osint Books
+* [Open Source Intelligence Techniques by Michael Bazzell](https://inteltechniques.com/book1.html)
+* [We Are Bellingcat](https://www.bellingcat.com/book/)
+* [Custom Search - Discover More: A Complete Guide to Google](https://www.amazon.com/Custom-Search-Discover-Complete-Programmable/dp/0367567393)
+* [Down the Rabbit Hole: An OSINT Journey](https://www.amazon.com/Down-Rabbit-Hole-OSINT-Journey/dp/0995687544)
+* [Hack The World with OSINT](https://www.amazon.com/Hack-World-OSINT-Hackers-Gonna/dp/0995687595)
+* [Google Hacking for Penetration Testers](https://www.amazon.com/Google-Hacking-Penetration-Testers-Johnny/dp/0128029641)
+* [The Internet Intelligence & Investigation Handbook](https://www.amazon.com/Internet-Intelligence-Investigation-Handbook-practical-ebook/dp/B0961BXYPS)
+* [Deep Dive: Exploring the Real-World Value of OSINT](https://www.amazon.com/Deep-Dive-Exploring-Real-world-Intelligence/dp/1119933242)
+* [Open Source Intelligence Methods and Tools](https://www.amazon.com/Open-Source-Intelligence-Methods-Tools/dp/1484232127)
+* [Hunting Cyber Criminals: A Hacker's Guide to Online Intelligence Gathering Tools & Techniques](https://www.amazon.com/OSINT-Toolkit-Intelligence-Gathering-Investigations/dp/1119540925)
+* [Operator Handbook: Red Team + OSINT + Blue Team](https://www.amazon.com/Operator-Handbook-Team-OSINT-Reference/dp/B085RR67H5)
+* [OSINT Investigations: We know what you did that summer](https://www.amazon.com/OSINT-Investigations-summer-Cyber-Secrets/dp/B09PHHDFBM)
 
  [CTI House](#cti-house)
 

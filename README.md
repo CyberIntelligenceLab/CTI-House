@@ -175,6 +175,13 @@
 [CTI House](#cti-house)
 
 # Document Search
+* [Scribd](https://www.scribd.com/)
+* [Slide Share](https://www.slideshare.net/)
+* [ISSUU](https://issuu.com/)
+* [Prezi](https://prezi.com/)
+* [PDFDrive](pdfdrive.com)
+* [Pastebin](pastebin.com)
+* [ZeroBin](https://zerobin.org/)
 
  [CTI House](#cti-house)
 

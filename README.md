@@ -12,7 +12,7 @@
 | [Domain](#domain) | [Subdomain](#subdomain) | [IP Address](#ip-address) | [URL](#url) | [Whois Records](#whois-records) | [Social Media](#social-media) |
 | [E Mail](#e-mail) | [Username](#username) | [Passwords](#passwords) | [Data Breaches](#data-breaches) | [Document Search](#document-search) | [Phone Numbers](#phone-numbers) |
 | [Meta Data](#meta-data) | [Dark Web Search Engine Links](#dark-web-search-engine-links) | [Social Media Tools](#social-media-tools) | [Messenger Platforms](#messenger-platforms) | [Cipher Identifier](#cipher-identifier) | [Geolocation](#geolocation) |
-| [Public Records](#public-records) | [Document Search Presentation Repositories](#document-search-presentation-repositories) | [Osint Books](#osint-books) | [Popular Search Engines](#popular-search-engines) | [International Search Engines](#international-search-engines) | [Username Related Accounts](#username-related-accounts) |
+| [Public Records](#public-records) | [Images](#images) | [Osint Books](#osint-books) | [Popular Search Engines](#popular-search-engines) | [International Search Engines](#international-search-engines) | [Username Related Accounts](#username-related-accounts) |
 
 # Domain
 * [bgp.he.net](https://bgp.he.net/)
@@ -186,6 +186,23 @@
  [CTI House](#cti-house)
 
 # Phone Numbers
+* [ZLookup](https://www.zlookup.com/)
+* [Truecaller](https://www.truecaller.com/)
+* [CallerID Test](https://calleridtest.com/)
+* [Reverse Phone Lookup](https://www.reversephonecheck.com/)
+* [Free Carrier Lookup](https://www.freecarrierlookup.com/)
+* [Free to Lookup Unknown Callers](https://www.reversephonelookup.com/)
+* [Social Catfish](https://socialcatfish.com/reverse-phone-lookup/)
+* [Thisnumber](https://www.thisnumber.com/)
+* [SPYDialer](https://www.spydialer.com/default.aspx)
+* [BeenVerified](https://www.beenverified.com/reverse-phone/)
+* [Phonebooks](https://www.phonebooks.com/)
+* [Sync.me](https://sync.me/)
+* [PhoneInfoga](https://github.com/sundowndev/phoneinfoga)
+* [CodeLook](https://www.telecom-tariffs.co.uk/codelook.htm)
+* [FoneFinder](https://www.fonefinder.net)
+* [PeopleFinder](https://www.peoplefinder.com/)
+* [Addresses](https://www.addresses.com/)
 
  [CTI House](#cti-house)
 
@@ -230,7 +247,24 @@
 
  [CTI House](#cti-house)
 
-# Document Search Presentation Repositories
+# Images
+* [Google Images](https://www.google.com/imghp)
+* [Yandex Images](https://yandex.com/images/)
+* [TinEye](https://tineye.com/)
+* [Mozilla Extension](https://addons.mozilla.org/en-US/firefox/addon/image-reverse-search/)
+* [Bing Visual Search](https://www.bing.com/visualsearch)
+* [Forensically](https://29a.ch/photo-forensics/#forensic-magnifier)
+* [FotoForensics](http://fotoforensics.com/)
+* [Image Enlarger](https://www.imageenlarger.com/)
+* [Steganographic Decoder](https://futureboy.us/stegano/decinput.html)
+* [Search by Image Addon](https://github.com/dessant/search-by-image)
+* [fSpy](https://fspy.io/)
+* [Barcode Reader](https://online-barcode-reader.inliteresearch.com/)
+* [pic2Map](https://www.pic2map.com/)
+* [Focus Magic](https://www.focusmagic.com/)
+* [MeVer - Image Verification Assistant](https://mever.iti.gr/forensics/)
+* [Is Your Image Edited](https://imageedited.com/)
+* [PimEyes](https://pimeyes.com/en)
 
  [CTI House](#cti-house)
 

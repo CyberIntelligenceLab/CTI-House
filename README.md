@@ -132,10 +132,10 @@
  [CTI House](#cti-house)
 
 # Username
-* [CheckUsernames](checkusernames.com)
-* [namecheckr](namecheckr.com)
-* [nameevine](namevine.com)
-* [whatismyname](whatsmyname.app)
+* [CheckUsernames](https://checkusernames.com/)
+* [namecheckr](https://www.namecheckr.com/)
+* [nameevine](https://namevine.com/)
+* [whatismyname](https://whatsmyname.app/)
 * [Sherlock](https://github.com/sherlock-project/sherlock)
 * [analyzedid](https://analyzeid.com/username/)
 * [DigitalFootPrintCheck](https://digitalfootprintcheck.com/free-checker.html)
@@ -179,8 +179,7 @@
 * [Slide Share](https://www.slideshare.net/)
 * [ISSUU](https://issuu.com/)
 * [Prezi](https://prezi.com/)
-* [PDFDrive](pdfdrive.com)
-* [Pastebin](pastebin.com)
+* [Pastebin](https://pastebin.com/)
 * [ZeroBin](https://zerobin.org/)
 
  [CTI House](#cti-house)
@@ -207,6 +206,15 @@
  [CTI House](#cti-house)
 
 # Meta Data
+* [Extract Metadata](https://www.extractmetadata.com/)
+* [ExifTool](https://github.com/exiftool/exiftool)
+* [Metagoofil](https://www.kali.org/tools/metagoofil/)
+* [Foca](https://github.com/ElevenPaths/FOCA)
+* [Jimpl](https://jimpl.com/)
+* [metadata2go](https://www.metadata2go.com/)
+* [Exif Data Viewer](https://linangdata.com/exif-reader/)
+* [EXIF.tools](https://exif.tools/)
+* [exifmeta](https://exifmeta.com/)
 
  [CTI House](#cti-house)
 

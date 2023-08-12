@@ -248,6 +248,20 @@
  [CTI House](#cti-house)
 
 # Geolocation
+* [Creepy](https://www.geocreepy.com/)
+* [Batch geocoder for journalist](https://geocode.localfocus.nl/)
+* [GeoServer](https://geoserver.org/)
+* [OpenLayers](https://openlayers.org/)
+* [Leaflet - Javascript Library for Interactive Maps](https://leafletjs.com/)
+* [QGIS - Geographic Information System](https://www.qgis.org/)
+* [MapServer](https://mapserver.org/)
+* [GeoNames](https://www.geonames.org/)
+* [I Know Where Your Cat Lives](https://iknowwhereyourcatlives.com/about/)
+* [Shadow Calculator](http://shadowcalculator.eu/)
+* [Latitude and Longitude Finder](https://www.latlong.net/)
+* [Wigle.net - Wireless Network Mapping](https://wigle.net/)
+* [GPS Visualizer](https://www.gpsvisualizer.com/geocode)
+* [Coordinate Conversion](https://www.doogal.co.uk/BatchReverseGeocoding)
 
  [CTI House](#cti-house)
 

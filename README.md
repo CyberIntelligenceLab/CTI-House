@@ -236,6 +236,34 @@
 
 # Messenger Platforms
 
+- Whatsapp
+  * [Fake Whatsapp Chat Generator](http://www.fakewhats.com/generator)
+  * [Chat Visualiser](https://chatvisualizer.com/)
+  * [Whatsapp Group Links](https://whatsgrouplink.com/)
+  * [WhatsAnalyze](https://whatsanalyze-80665.web.app/)
+  * [Download Profile Picture](https://watools.io/download-profile-picture)
+
+- Telegram
+  * [Telegago](https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg)
+  * [Lyzem - Search on Telegram](https://lyzem.com/)
+  * [TGStat - Post search in Telegram](https://tgstat.ru/en/search)
+  * [Telegram Channels](https://telegramchannels.me/)
+  * [TelegramDB Search Bot](https://www.telegramdb.org/)
+  * [Discover interesting channels](https://tlgrm.eu/channels)
+  * [Awesome Telegram OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT)
+  * [Save Telegram Chat History](https://github.com/pigpagnet/save-telegram-chat-history)
+  * [Telegram Search Engine](https://xtea.io/ts_en.html)
+  * [Telemetrio - Telegram Channels](https://telemetr.io/en/channels)
+  * [Creation of Fake Chats in Telegram](https://fakedoit.com/?lang=en)
+
+- Discord
+  * [Search Discord Servers](https://disboard.org/search)
+  * [DiscordBee](https://discordbee.com/)
+  * [Discord Servers](https://discordservers.com/browse)
+  * [Explore millions of Discord Bots & Servers](https://top.gg/)
+  * [Discord Center](https://discord.center/)
+  * [OSINT Discord Resources](https://github.com/Dutchosintguy/OSINT-Discord-resources)
+
  [CTI House](#cti-house)
 
 # Cipher Identifier

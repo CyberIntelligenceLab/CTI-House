@@ -10,7 +10,7 @@
 | |  |  |  |  |  |
 |---------|---------|---------|---------|---------|---------|
 | [Domain](#domain) | [Subdomain](#subdomain) | [IP Address](#ip-address) | [URL](#url) | [Whois Records](#whois-records) | [Social Media](#social-media) |
-| [E Mail](#e-mail) | [Username](#username) | [Passwords](#passwords) | [Data Breaches](#data-breaches) | [Document Search](#document-search) | [Phone Numbers](#phone-numbers) |
+| [E Mail](#e-mail) | [Username](#username) | [Password Managers](#password-managers) | [Data Breaches](#data-breaches) | [Document Search](#document-search) | [Phone Numbers](#phone-numbers) |
 | [Meta Data](#meta-data) | [Dark Web Search Engine Links](#dark-web-search-engine-links) | [Social Media Tools](#social-media-tools) | [Messenger Platforms](#messenger-platforms) | [Cipher Identifier](#cipher-identifier) | [Geolocation](#geolocation) |
 | [Public Records](#public-records) | [Images](#images) | [Osint Books](#osint-books) | [Popular Search Engines](#popular-search-engines) | [International Search Engines](#international-search-engines) | [Username Related Accounts](#username-related-accounts) |
 
@@ -147,7 +147,13 @@
 
  [CTI House](#cti-house)
 
-# Passwords
+# Password Managers
+* [KeePass](https://keepass.info/)
+* [Norton Password Manager](https://my.norton.com/extspa/passwordmanager)
+* [NordPass](https://nordpass.com/)
+* [Bitwarden](https://bitwarden.com/)
+* [1Password](https://1password.com/)
+* [Dashlane](https://www.dashlane.com/)
 
  [CTI House](#cti-house)
 

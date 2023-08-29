@@ -301,6 +301,19 @@
 
 # Public Records
 
+* [Blackbookonline.info (USA)](https://www.blackbookonline.info/)
+* [Cadastre (FR)](https://cadastre.gouv.fr/scpc/accueil.do)
+* [CanLII (CAN)](https://www.canlii.org/en/)
+* [Gemeenschao van goederen register (NL)](https://hgr.rechtspraak.nl/#!/zoeken)
+* [Kadaster - Bagviewer (NL)](https://bagviewer.kadaster.nl/lvbag/bag-viewer/index.html)
+* [Lumen](http://lumendatabase.org)
+* [National Archives (USA)](https://aad.archives.gov/aad/index.jsp)
+* [Overheid.nl (NL)](https://zoek.officielebekendmakingen.nl/)
+* [Passport Index](https://www.passportindex.org/)
+* [PublicRecords - Search Systems](http://publicrecords.searchsystems.net/)
+* [SEC.gov (USA)](https://www.sec.gov/edgar/searchedgar/webusers.htm)
+
+
  [CTI House](#cti-house)
 
 # Images
@@ -341,6 +354,34 @@
  [CTI House](#cti-house)
 
 # Popular Search Engines
+
+* [Google](https://www.google.com/)
+* [DuckDuckGo](https://duckduckgo.com/)
+* [Yandex](https://yandex.com/)
+* [Qwant](https://www.qwant.com/)
+* [Bing](https://bing.com/)
+* [Shodan](https://shodan.io)
+* [Maltego](https://www.maltego.com/)
+* [Wayback Machine](https://archive.org/web/)
+* [Yahoo](https://www.yahoo.com/)
+* [You - AI Search Engine](https://you.com/)
+* [Uvrx - Online File Storage Search Engine](http://www.uvrx.com/)
+* [Advangle - Advanced Web-Search](http://advangle.com/)
+* [Ask](https://www.ask.com/)
+* [ExaLead](http://www.exalead.com/search/)
+* [Oscobo](https://www.oscobo.com/)
+* [Mojeek](https://www.mojeek.com/)
+* [WolframAlpha](https://www.wolframalpha.com/)
+* [I Search From](http://isearchfrom.com/)
+* [Lycos](https://www.lycos.com/)
+* [Fagan Finder](https://www.faganfinder.com/)
+* [CachedView - Google Cache Browser](https://cachedview.com/)
+* [Google Hacking Database](https://www.exploit-db.com/google-hacking-database)
+* [Google Hacking](https://pentest-tools.com/information-gathering/google-hacking)
+* [DorkSearch.com](https://www.dorksearch.com/)
+* [Google Social Search](https://www.social-searcher.com/google-social-search/)
+* [Google Direct Download Almost Anything](https://ewasion.github.io/opendirectory-finder/)
+* [0iq.me/gip](https://0iq.me/gip/)
 
  [CTI House](#cti-house)
 
